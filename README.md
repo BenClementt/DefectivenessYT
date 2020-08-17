@@ -8,7 +8,7 @@ I'm Jacques, but I'm also known as Hex or Jack. I'm a 15 year old Node.js develo
 Music4All - A discord bot which played music. My first ever Discord bot. Shutdown in 2018
 
 ### Some stats about me
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=HexDevv)](https://keyfm.net)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=HexDevv)](https://hexdev.xyz)
 
 
 <!--
