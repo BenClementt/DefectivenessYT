@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=HexDevv)](https://keyfm.net)
 
