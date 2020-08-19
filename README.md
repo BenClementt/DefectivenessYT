@@ -3,9 +3,10 @@
 I'm Jacques, but I'm also known as Hex or Jack. I'm a 15 year old Node.js developer who loves to code in their spare time.
 
 ## A couple projects I'm proud of
-[Jinkaku](https://top.gg/bot/706271163168587848) - A discord bot for roleplayers<br>
-[KeyFM](https://keyfm.net) - An online radio station<br>
-Music4All - A discord bot which played music. My first ever Discord bot. Shutdown in 2018
+Name - Description - My role
+[Jinkaku](https://top.gg/bot/706271163168587848) - A discord bot for roleplayers - Owner and Lead Dev<br>
+[KeyFM](https://keyfm.net) - An online radio station - Administrator<br>
+Music4All - A discord bot which played music. My first ever Discord bot. Shutdown in 2018 - Owner and Lead Dev
 
 ### Some stats about me
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=HexDevv)](https://hexdev.xyz)
