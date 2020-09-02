@@ -10,3 +10,6 @@ I'm Ben, but I'm also known as Defectiveness or benne. I'm 15 and do stupid terr
 
 ### Some stats about me
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=defectivenessyt)]
+
+
+grwepoijfrejgiperjigphojipotehjipoterhjpio[etrhsajipoetrhajipobngk
